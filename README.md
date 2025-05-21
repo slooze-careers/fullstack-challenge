@@ -1,3 +1,4 @@
+![Logo](./public/FFFFFF-1.png)
 # fullstack-challenge!
 
 ## Question:
