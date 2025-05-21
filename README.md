@@ -9,6 +9,11 @@ How would you design and implement a full-stack role-based food ordering web app
 
 Refer to the pdf attached in the repository for more details on the problem statement
 
+## 📤 Submission
+- Upload your code to GitHub or share as a CodeSandbox/StackBlitz link
+- Include instructions to run the app locally (e.g., npm install && npm run dev)
+- (Optional) Deploy and share a live link using Vercel, Netlify, etc.
+
 ## Connect with Us:
 
 Reach out to **[careers@slooze.xyz](mailto:careers@slooze.xyz)** to submit your solutions or if you may have any questions related to the challenege
