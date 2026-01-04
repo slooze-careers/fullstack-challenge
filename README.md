@@ -5,9 +5,9 @@
 
 Design and implement a full-stack, role-based food ordering web application where users (Admins, Managers, and Members) can perform specific functions—such as viewing restaurants, placing or canceling orders, and managing payment methods—based on their assigned role.
 
-Assume: Mock restaurants & menu items onto your app
+**Assume**: Mock restaurants & menu items onto your app
 
-Optional Extension: Implement a relational access model that restricts users to operate only within their assigned country (India or America).
+**Extension**: Implement a relational access model that restricts users to operate only within their assigned country (India or America).
 
 ### 🎯 Feature Breakdown & Role-Based Access
 | **Feature**                      | **Admin** | **Manager** | **Member** |
@@ -20,9 +20,9 @@ Optional Extension: Implement a relational access model that restricts users to 
 
 
 ### Tech Stack:
-Backend: NestJS · GraphQL · Prisma 
-Frontend: Next.js · TypeScript · Tailwind CSS · Apollo Client
-Authentication: Role-based access control (RBAC) · Optional Re-BAC
+- **Backend**: NestJS · GraphQL · Prisma
+- **Frontend**: Next.js · TypeScript · Tailwind CSS · Apollo Client
+- **Auth**: Role-based access control (RBAC) · Bonus: Re-BAC
 ---
 
 ## Reference:
